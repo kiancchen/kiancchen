@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning **Computer Science & Software development**...
 
 
-[![Kyan's github stats](https://github-readme-stats.vercel.app/api?username=KyanChen)](https://github.com/KyanChen/github-readme-stats)
+![Kian's github stats](https://github-readme-stats.vercel.app/api?username=kiancchen&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiancchen)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **KyanChen/KyanChen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
