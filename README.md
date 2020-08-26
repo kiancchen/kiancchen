@@ -5,7 +5,7 @@
 
 ![Kian's github stats](https://github-readme-stats.vercel.app/api?username=kiancchen&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiancchen&hide=javascript,html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiancchen&hide=javascript,html,css)
 
 <!--
 **KyanChen/KyanChen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
