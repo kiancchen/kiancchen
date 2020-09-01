@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning **Computer Science & Software development**...
 
 
-![Kian's github stats](https://github-readme-stats.vercel.app/api?username=kiancchen&show_icons=true)
+![cc's github stats](https://github-readme-stats.vercel.app/api?username=kiancchen&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiancchen&hide=javascript,html,css)
 
