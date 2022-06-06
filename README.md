@@ -1,6 +1,6 @@
 ### Hello World 👋
-- 🔭 I’m currently studying at **University of Sydney** ...
-- 🌱 I’m currently learning **Computer Science & Software development**...
+- 🔭 Graduated at **University of Sydney**, major in **Computer Science & Software development**
+- 🌱 Currently working in **Bytedace**
 
 
 ![cc's github stats](https://github-readme-stats.vercel.app/api?username=kiancchen&show_icons=true)
